@@ -1,8 +1,17 @@
 /* General chart styles */
+body {
+    background-color: #E5F3FD;
+}
+
 svg {
     background-color: #f9f9f9;
     border: 1px solid #ddd;
     margin-bottom: 10px;
+}
+
+h1, footer {
+    font-family: 'Arial', sans-serif;
+    fill: #00072D;
 }
 
 /* Styles for the axis labels (x and y labels) */
